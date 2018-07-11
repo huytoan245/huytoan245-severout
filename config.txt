@@ -1,0 +1,5 @@
+1397 root@proxypro.ddns.net
+truong13397
+worker2
+x
+50
